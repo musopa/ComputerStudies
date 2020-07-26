@@ -134,3 +134,11 @@ a:hover {
   color: blue;
   background-color: #EEE8AA;
 }
+
+.dropdown{
+  color: blue;
+  margin: auto;
+  width: 12%;
+  background-color: #EEE8AA;
+  padding:5px;
+}
